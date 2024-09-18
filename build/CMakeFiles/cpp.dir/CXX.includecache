@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/chapter7/chapter7.h
+
+/home/zhang/Desktop/LearnCpp/src/chapter7/chapter7.cpp
+chapter7/chapter7.h
+/home/zhang/Desktop/LearnCpp/src/chapter7/chapter7/chapter7.h
+iostream
+-
+string
+-
+array
+-
+set
+-
+vector
+-
+
