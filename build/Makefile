@@ -231,6 +231,33 @@ src/chapter7/chapter7.cpp.s:
 	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/src/chapter7/chapter7.cpp.s
 .PHONY : src/chapter7/chapter7.cpp.s
 
+src/chapter8/chapter8.o: src/chapter8/chapter8.cpp.o
+
+.PHONY : src/chapter8/chapter8.o
+
+# target to build an object file
+src/chapter8/chapter8.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/src/chapter8/chapter8.cpp.o
+.PHONY : src/chapter8/chapter8.cpp.o
+
+src/chapter8/chapter8.i: src/chapter8/chapter8.cpp.i
+
+.PHONY : src/chapter8/chapter8.i
+
+# target to preprocess a source file
+src/chapter8/chapter8.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/src/chapter8/chapter8.cpp.i
+.PHONY : src/chapter8/chapter8.cpp.i
+
+src/chapter8/chapter8.s: src/chapter8/chapter8.cpp.s
+
+.PHONY : src/chapter8/chapter8.s
+
+# target to generate assembly for a file
+src/chapter8/chapter8.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/src/chapter8/chapter8.cpp.s
+.PHONY : src/chapter8/chapter8.cpp.s
+
 src/main.o: src/main.cpp.o
 
 .PHONY : src/main.o
@@ -279,6 +306,9 @@ help:
 	@echo "... src/chapter7/chapter7.o"
 	@echo "... src/chapter7/chapter7.i"
 	@echo "... src/chapter7/chapter7.s"
+	@echo "... src/chapter8/chapter8.o"
+	@echo "... src/chapter8/chapter8.i"
+	@echo "... src/chapter8/chapter8.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

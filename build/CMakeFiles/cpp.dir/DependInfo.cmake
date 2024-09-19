@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/zhang/Desktop/LearnCpp/src/chapter2/vector.cpp" "/home/zhang/Desktop/LearnCpp/build/CMakeFiles/cpp.dir/src/chapter2/vector.cpp.o"
   "/home/zhang/Desktop/LearnCpp/src/chapter6/chapter6.cpp" "/home/zhang/Desktop/LearnCpp/build/CMakeFiles/cpp.dir/src/chapter6/chapter6.cpp.o"
   "/home/zhang/Desktop/LearnCpp/src/chapter7/chapter7.cpp" "/home/zhang/Desktop/LearnCpp/build/CMakeFiles/cpp.dir/src/chapter7/chapter7.cpp.o"
+  "/home/zhang/Desktop/LearnCpp/src/chapter8/chapter8.cpp" "/home/zhang/Desktop/LearnCpp/build/CMakeFiles/cpp.dir/src/chapter8/chapter8.cpp.o"
   "/home/zhang/Desktop/LearnCpp/src/main.cpp" "/home/zhang/Desktop/LearnCpp/build/CMakeFiles/cpp.dir/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

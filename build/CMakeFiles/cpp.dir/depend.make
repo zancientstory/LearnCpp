@@ -14,8 +14,12 @@ CMakeFiles/cpp.dir/src/chapter6/chapter6.cpp.o: ../src/chapter6/chapter6.cpp
 CMakeFiles/cpp.dir/src/chapter7/chapter7.cpp.o: ../include/chapter7/chapter7.h
 CMakeFiles/cpp.dir/src/chapter7/chapter7.cpp.o: ../src/chapter7/chapter7.cpp
 
+CMakeFiles/cpp.dir/src/chapter8/chapter8.cpp.o: ../include/chapter8/chapter8.hpp
+CMakeFiles/cpp.dir/src/chapter8/chapter8.cpp.o: ../src/chapter8/chapter8.cpp
+
 CMakeFiles/cpp.dir/src/main.cpp.o: ../include/chapter2/chapter2.h
 CMakeFiles/cpp.dir/src/main.cpp.o: ../include/chapter6/chapter6.h
 CMakeFiles/cpp.dir/src/main.cpp.o: ../include/chapter7/chapter7.h
+CMakeFiles/cpp.dir/src/main.cpp.o: ../include/chapter8/chapter8.hpp
 CMakeFiles/cpp.dir/src/main.cpp.o: ../src/main.cpp
 
