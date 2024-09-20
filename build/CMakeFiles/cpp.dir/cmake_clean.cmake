@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/cpp.dir/src/chapter10/chapter10.cpp.o"
   "CMakeFiles/cpp.dir/src/chapter2/chapter2.cpp.o"
   "CMakeFiles/cpp.dir/src/chapter2/vector.cpp.o"
   "CMakeFiles/cpp.dir/src/chapter6/chapter6.cpp.o"

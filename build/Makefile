@@ -123,6 +123,33 @@ cpp/fast:
 	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/build
 .PHONY : cpp/fast
 
+src/chapter10/chapter10.o: src/chapter10/chapter10.cpp.o
+
+.PHONY : src/chapter10/chapter10.o
+
+# target to build an object file
+src/chapter10/chapter10.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/src/chapter10/chapter10.cpp.o
+.PHONY : src/chapter10/chapter10.cpp.o
+
+src/chapter10/chapter10.i: src/chapter10/chapter10.cpp.i
+
+.PHONY : src/chapter10/chapter10.i
+
+# target to preprocess a source file
+src/chapter10/chapter10.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/src/chapter10/chapter10.cpp.i
+.PHONY : src/chapter10/chapter10.cpp.i
+
+src/chapter10/chapter10.s: src/chapter10/chapter10.cpp.s
+
+.PHONY : src/chapter10/chapter10.s
+
+# target to generate assembly for a file
+src/chapter10/chapter10.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/src/chapter10/chapter10.cpp.s
+.PHONY : src/chapter10/chapter10.cpp.s
+
 src/chapter2/chapter2.o: src/chapter2/chapter2.cpp.o
 
 .PHONY : src/chapter2/chapter2.o
@@ -294,6 +321,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... cpp"
+	@echo "... src/chapter10/chapter10.o"
+	@echo "... src/chapter10/chapter10.i"
+	@echo "... src/chapter10/chapter10.s"
 	@echo "... src/chapter2/chapter2.o"
 	@echo "... src/chapter2/chapter2.i"
 	@echo "... src/chapter2/chapter2.s"

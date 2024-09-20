@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/zhang/Desktop/LearnCpp/src/chapter10/chapter10.cpp" "/home/zhang/Desktop/LearnCpp/build/CMakeFiles/cpp.dir/src/chapter10/chapter10.cpp.o"
   "/home/zhang/Desktop/LearnCpp/src/chapter2/chapter2.cpp" "/home/zhang/Desktop/LearnCpp/build/CMakeFiles/cpp.dir/src/chapter2/chapter2.cpp.o"
   "/home/zhang/Desktop/LearnCpp/src/chapter2/vector.cpp" "/home/zhang/Desktop/LearnCpp/build/CMakeFiles/cpp.dir/src/chapter2/vector.cpp.o"
   "/home/zhang/Desktop/LearnCpp/src/chapter6/chapter6.cpp" "/home/zhang/Desktop/LearnCpp/build/CMakeFiles/cpp.dir/src/chapter6/chapter6.cpp.o"
