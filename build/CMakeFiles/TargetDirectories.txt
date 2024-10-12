@@ -1,3 +1,0 @@
-/home/zhang/Desktop/LearnCpp/build/CMakeFiles/rebuild_cache.dir
-/home/zhang/Desktop/LearnCpp/build/CMakeFiles/edit_cache.dir
-/home/zhang/Desktop/LearnCpp/build/CMakeFiles/cpp.dir
